@@ -1,4 +1,4 @@
 public class Figura {
   private int comprimento;
-  private int largura;
+  private int larguras;
 }
